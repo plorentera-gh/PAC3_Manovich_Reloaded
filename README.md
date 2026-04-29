@@ -23,6 +23,9 @@ En aquest context, aquest assaig analitza dos casos d’hibridació contemporàn
 
 ![Minecraft](https://upload.wikimedia.org/wikipedia/commons/8/82/Vintagecraft_jungle.png)
 
+*Figura 1. Captura del mod Vintagecraft per a Minecraft. Autor: tyronx (2015). Font: Wikimedia Commons. Llicència: GNU General Public License (GPL).*
+
+
 🔗 Web oficial: https://www.minecraft.net  
 🔗 Exemple: https://www.youtube.com/watch?v=MmB9b5njVbA  
 
