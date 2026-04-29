@@ -19,9 +19,9 @@ En aquest context, aquest assaig analitza dos casos d’hibridació contemporàn
 
 ---
 
-## Cas1. Hibridació sistèmica en Minecraft: del videojoc al metamedi programable
+## Cas 1. Hibridació sistèmica en Minecraft: del videojoc al metamedi programable
 
-![Minecraft](https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png)
+![Minecraft](https://upload.wikimedia.org/wikipedia/commons/8/82/Vintagecraft_jungle.png)
 
 🔗 Web oficial: https://www.minecraft.net  
 🔗 Exemple: https://www.youtube.com/watch?v=MmB9b5njVbA  
