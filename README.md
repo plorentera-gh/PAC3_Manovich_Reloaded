@@ -50,10 +50,10 @@ Així, la hibridació en Minecraft no és multimèdia, perquè no consisteix en 
 
 ## Cas 2. Hibridació immersiva en teamLab Borderless: espai computacional i imatge dinàmica
 
-![teamLab Borderless](https://upload.wikimedia.org/wikipedia/commons/5/5c/TeamLab_Borderless_Tokyo.jpg)
+![teamLab Borderless](https://upload.wikimedia.org/wikipedia/commons/b/b2/TeamLab_Borderless,_Odaiba,_Tokyo,_Japan_(49070134983).jpg)
 
-🔗 Web oficial: https://www.teamlab.art/e/borderless/  
-🔗 Vídeo: https://www.youtube.com/watch?v=F3R2xwUxr3k  
+🔗 Web oficial: https://www.teamlab.art/e/tokyo/
+🔗 Vídeo: https://www.youtube.com/watch?v=-DtLKZLol4A
 
 En el cas de teamLab Borderless, la hibridació es manifesta com una fusió entre espai físic, imatge digital, cos, dades i algoritmes dins d’un sistema computacional continu. A diferència d’una exposició tradicional, aquest projecte no presenta obres separades que l’espectador observa una darrere l’altra, sinó un entorn immersiu on les imatges es mouen, travessen sales, reaccionen a la presència del públic i es transformen constantment. Per això, teamLab Borderless no pot entendre’s només com una mostra d’art digital, sinó com un nou objecte mediàtic produït pel software.
 
