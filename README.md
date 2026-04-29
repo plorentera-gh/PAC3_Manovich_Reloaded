@@ -50,7 +50,7 @@ Així, la hibridació en Minecraft no és multimèdia, perquè no consisteix en 
 
 ## Cas 2. Hibridació immersiva en teamLab Borderless: espai computacional i imatge dinàmica
 
-![teamLab Borderless](https://upload.wikimedia.org/wikipedia/commons/b/b2/TeamLab_Borderless,_Odaiba,_Tokyo,_Japan_(49070134983).jpg)
+![teamLab Borderless][(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/TeamLab_Borderless%2C_Odaiba%2C_Tokyo%2C_Japan_%2849070134983%29.jpg/960px-TeamLab_Borderless%2C_Odaiba%2C_Tokyo%2C_Japan_%2849070134983%29.jpg?_=20240527154708)](https://upload.wikimedia.org/wikipedia/commons/b/b2/TeamLab_Borderless%2C_Odaiba%2C_Tokyo%2C_Japan_%2849070134983%29.jpg)
 
 🔗 Web oficial: https://www.teamlab.art/e/tokyo/
 🔗 Vídeo: https://www.youtube.com/watch?v=-DtLKZLol4A
