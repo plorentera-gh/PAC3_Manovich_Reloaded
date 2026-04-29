@@ -81,10 +81,13 @@ Els dos casos analitzats mostren que la hibridació en la cultura digital contem
 Aquesta transformació redefineix la producció cultural com un procés obert, dinàmic i participatiu. La hibridació esdevé així una condició fonamental de la cultura digital contemporània.
 
 
-### Referencias y Bibliografía
+### Bibliografia
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
+### Webgrafia
+
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
 ----
 
