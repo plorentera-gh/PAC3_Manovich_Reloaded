@@ -52,7 +52,7 @@ Així, la hibridació en Minecraft no és multimèdia, perquè no consisteix en 
 
 ![teamLab Borderless](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/TeamLab_Borderless%2C_Odaiba%2C_Tokyo%2C_Japan_%2849070134983%29.jpg/960px-TeamLab_Borderless%2C_Odaiba%2C_Tokyo%2C_Japan_%2849070134983%29.jpg)
 
-🔗 Web oficial: https://www.teamlab.art/e/
+🔗 Web oficial: https://www.teamlab.art
 
 🔗 Vídeo: https://www.youtube.com/watch?v=-DtLKZLol4A
 
