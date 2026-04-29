@@ -2,6 +2,7 @@
 ##  Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
 **Autor:** Pau Lorente Ramos
+
 **Assignatura:** Cultura Digital - Aula 1 - Grau de Multimèdia - UOC
  
 **Llicència:** Creative Commons (CC BY-SA 4.0)
