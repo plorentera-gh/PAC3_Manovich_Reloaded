@@ -16,7 +16,7 @@ Tal com planteja **Lev Manovich** a *El software toma el mando*, la cultura cont
 
 Aquesta idea està relacionada amb el concepte de metamedi desenvolupat per Alan Kay, segons el qual el software no és només una eina, sinó un entorn capaç d’integrar i reconfigurar altres mitjans. Així, la cultura digital contemporània no consisteix en la coexistència de formats diferents, sinó en la seva transformació dins d’un mateix sistema computacional.
 
-En aquest context, aquest assaig analitza dos casos d’hibridació contemporània: Minecraft i teamLab Borderless. A través d’aquests exemples, es pot observar com el software actua com a infraestructura cultural que integra dades, algoritmes, espai i interacció en sistemes unificats.
+En aquest context, aquest assaig analitza dos casos d’hibridació contemporània: **Minecraft** i **teamLab Borderless**. A través d’aquests exemples, es pot observar com el software actua com a infraestructura cultural que integra dades, algoritmes, espai i interacció en sistemes unificats.
 
 ---
 
