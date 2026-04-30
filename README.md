@@ -1,3 +1,4 @@
+
 # PAC3 – Manovich Reloaded  
 ##  Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
@@ -11,7 +12,7 @@
 
 ## Introducció
 
-Tal com planteja Lev Manovich a *El software toma el mando*, la cultura contemporània es defineix per la transformació dels mitjans en sistemes computacionals. En aquest context, la hibridació no es pot entendre com una simple combinació de llenguatges (multimèdia), sinó com un procés en què diferents mitjans es fusionen estructuralment dins del software fins a generar nous objectes culturals.
+Tal com planteja **Lev Manovich** a *El software toma el mando*, la cultura contemporània es defineix per la transformació dels mitjans en sistemes computacionals. En aquest context, la **hibridació** no es pot entendre com una simple combinació de llenguatges (multimèdia), sinó com un procés en què diferents mitjans es fusionen estructuralment dins del software fins a generar nous objectes culturals.
 
 Aquesta idea està relacionada amb el concepte de metamedi desenvolupat per Alan Kay, segons el qual el software no és només una eina, sinó un entorn capaç d’integrar i reconfigurar altres mitjans. Així, la cultura digital contemporània no consisteix en la coexistència de formats diferents, sinó en la seva transformació dins d’un mateix sistema computacional.
 
@@ -42,7 +43,7 @@ Aquesta dimensió algorítmica també afecta la manera com l’usuari participa 
 
 A més, la dimensió social reforça aquesta hibridació. En servidors multijugador, Minecraft es converteix en espai col·laboratiu, plataforma educativa, escenari narratiu o lloc de reconstrucció arquitectònica i cultural. Ciutats, monuments, mapes històrics o mons ficticis poden ser construïts col·lectivament dins del mateix entorn. Això fa que el joc funcioni també com a plataforma de producció cultural distribuïda.
 
-Des d’una perspectiva manovichiana, Minecraft es pot interpretar com una actualització del concepte de metamedi proposat per Alan Kay i Adele Goldberg. El software no només integra mitjans previs, sinó que permet reconfigurar-los i generar-ne de nous. Minecraft no suma videojoc, arquitectura, programació i xarxa social; els fusiona en un sistema únic basat en dades, algoritmes i interacció.
+Des d’una perspectiva manovichiana, Minecraft es pot interpretar com una actualització del concepte de metamedi proposat per **Alan Kay** i **Adele Goldberg**. El software no només integra mitjans previs, sinó que permet reconfigurar-los i generar-ne de nous. Minecraft no suma videojoc, arquitectura, programació i xarxa social; els fusiona en un sistema únic basat en dades, algoritmes i interacció.
 
 Així, la hibridació en Minecraft no és multimèdia, perquè no consisteix en posar diversos llenguatges un al costat de l’altre. És una hibridació profunda perquè transforma les seves parts en una nova forma cultural. El resultat és un entorn on les fronteres entre jugador, creador i programador es difuminen, i on el software actua com a infraestructura que defineix les condicions de la producció cultural contemporània.
 
@@ -83,11 +84,12 @@ Aquesta transformació redefineix la producció cultural com un procés obert, d
 
 ### Bibliografia
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+>Manovich, Lev. (2013). *El Software toma el mando*. Editorial UOC. 
 
 ### Webgrafia
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
+>teamLab (2015).  *Transcending Boundaries*. https://www.teamlab.art/concept/transcending-boundaries/    [Consulta: 24/04/2026]
 
 ----
 
