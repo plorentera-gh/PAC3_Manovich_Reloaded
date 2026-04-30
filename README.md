@@ -92,6 +92,8 @@ Aquesta transformació redefineix la producció cultural com un procés obert, d
 
 >Manovich, Lev. (2007).  *Understanding Hybrid Media*. https://manovich.net/index.php/projects/understanding-hybrid-media. [Consulta: 26/04/2026]
 
+>Mojang AB. TM Microsoft Corporation. (2007).  *Arte y diseño*. https://education.minecraft.net/es-es/resources/art-and-design. [Consulta: 26/04/2026]
+
 >teamLab (2015).  *Transcending Boundaries*. https://www.teamlab.art/concept/transcending-boundaries/ .[Consulta: 24/04/2026]
 
 ----
