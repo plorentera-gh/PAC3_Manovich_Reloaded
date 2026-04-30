@@ -26,8 +26,8 @@ En aquest context, aquest assaig analitza dos casos d’hibridació contemporàn
 *Imatge 1. Captura del mod Vintagecraft per a Minecraft. Autor: tyronx (2015). Font: Wikimedia Commons. Llicència: GNU General Public License (GPL).*
 
 
-🔗 Web oficial: https://www.minecraft.net  
-🔗 Exemple: https://www.youtube.com/watch?v=MmB9b5njVbA  
+> Web oficial: https://www.minecraft.net  
+> Exemple: https://www.youtube.com/watch?v=MmB9b5njVbA  
 
 
 En el context de la cultura digital contemporània, **Minecraft** es pot entendre com un cas especialment clar d’hibridació en el sentit que planteja Lev Manovich. Lluny de ser simplement un videojoc sandbox, aquest sistema constitueix un entorn on diferents mitjans, pràctiques i lògiques culturals es fusionen estructuralment fins a donar lloc a un nou tipus d’objecte mediàtic. No es tracta només d’un joc amb opcions creatives, sinó d’un sistema computacional on jugar, construir, programar i compartir formen part d’una mateixa experiència.
@@ -54,9 +54,9 @@ Així, la hibridació en Minecraft no és multimèdia, perquè no consisteix en 
 
 *Imatge 2. teamLab Borderless, Odaiba (Tòquio, Japó). Autor: Domenico Convertini (2019). Font: Wikimedia Commons. Llicència: Creative Commons Attribution-Share Alike 2.0 (CC BY-SA 2.0).*
 
-🔗 Web oficial: https://www.teamlab.art
+> Web oficial: https://www.teamlab.art  
+> Exemple: https://www.youtube.com/watch?v=-DtLKZLol4A  
 
-🔗 Vídeo: https://www.youtube.com/watch?v=-DtLKZLol4A
 
 En el cas de **teamLab Borderless**, la hibridació es manifesta com una fusió entre espai físic, imatge digital, cos, dades i algoritmes dins d’un sistema computacional continu. A diferència d’una exposició tradicional, aquest projecte no presenta obres separades que l’espectador observa una darrere l’altra, sinó un entorn immersiu on les imatges es mouen, travessen sales, reaccionen a la presència del públic i es transformen constantment. Per això, teamLab Borderless no pot entendre’s només com una mostra d’art digital, sinó com un nou objecte mediàtic produït pel software.
 
