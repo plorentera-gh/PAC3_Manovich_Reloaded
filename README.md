@@ -88,8 +88,11 @@ Aquesta transformació redefineix la producció cultural com un procés obert, d
 
 ### Webgrafia
 
+>Adell Español, Ferran (2024).  *Fonaments i evolució de la multimèdia*. https://cultura-digital.aula.uoc.edu/. [Consulta: 26/04/2026]
 
->teamLab (2015).  *Transcending Boundaries*. https://www.teamlab.art/concept/transcending-boundaries/    [Consulta: 24/04/2026]
+>Manovich, Lev. (2007).  *Understanding Hybrid Media*. https://manovich.net/index.php/projects/understanding-hybrid-media. [Consulta: 26/04/2026]
+
+>teamLab (2015).  *Transcending Boundaries*. https://www.teamlab.art/concept/transcending-boundaries/ .[Consulta: 24/04/2026]
 
 ----
 
