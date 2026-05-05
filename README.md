@@ -10,6 +10,7 @@
 **Llicència:** Creative Commons (CC BY-SA 4.0)
 
 <img width="162" height="57" alt="CC_by-sa" src="https://github.com/user-attachments/assets/8a92518b-4d6a-4e69-957b-ad96e73dffa9" />
+
 ---
 
 ## Introducció
