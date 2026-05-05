@@ -34,7 +34,7 @@ En aquest context, aquest assaig analitza dos casos d’hibridació contemporàn
 > Exemple: https://www.youtube.com/watch?v=MmB9b5njVbA  
 
 
-En el context de la cultura digital contemporània, **Minecraft** es pot entendre com un cas especialment clar d’hibridació en el sentit que planteja Lev Manovich. Lluny de ser simplement un videojoc sandbox, aquest sistema constitueix un entorn on diferents mitjans, pràctiques i lògiques culturals es fusionen estructuralment fins a donar lloc a un nou tipus d’objecte mediàtic. No es tracta només d’un joc amb opcions creatives, sinó d’un sistema computacional on jugar, construir, programar i compartir formen part d’una mateixa experiència.
+En el context de la cultura digital contemporània, **Minecraft** es pot entendre com un cas especialment clar d’hibridació en el sentit que planteja **Lev Manovich**. Lluny de ser simplement un videojoc sandbox, aquest sistema constitueix un entorn on diferents mitjans, pràctiques i lògiques culturals es fusionen estructuralment fins a donar lloc a un nou tipus d’objecte mediàtic. No es tracta només d’un joc amb opcions creatives, sinó d’un sistema computacional on jugar, construir, programar i compartir formen part d’una mateixa experiència.
 
 En Minecraft, la hibridació es produeix entre videojoc, eina de construcció, sistema de simulació, espai social i entorn programable. Aquestes dimensions no apareixen com a funcions independents afegides al joc, sinó que operen dins d’una mateixa estructura de software. L’usuari no canvia de mitjà quan passa d’explorar a construir o de construir a crear mecanismes amb redstone; totes aquestes accions formen part del mateix sistema i modifiquen el mateix món.
 
